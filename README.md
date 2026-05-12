@@ -53,8 +53,9 @@ I am passionate about solving complex problems, pushing the boundaries of AI, an
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -63,7 +64,7 @@ I am passionate about solving complex problems, pushing the boundaries of AI, an
 ## 😝 More About Me
 
 - 🤖 Machine Learning Engineer | Data Scientist | Applied AI Practitioner
-- 🎓 MS @ Arizona State University — Robotics & Autonomous Systems (AI) | GPA 4.0
+- 📚 Master's in Robotics & Autonomous Systems (Artificial Intelligence) @ Arizona State University | GPA 4.0: Nerd alert? Perhaps.
 - 🧠 Specializing in **Multimodal LLMs**, **RAG**, **Computer Vision**, and **NLP**
 - 🏥 Deployed ML solutions across finance, pharmaceuticals, and healthcare domains
 - 🔧 Full-stack ML: from training deep learning models to shipping production-ready APIs
