@@ -8,15 +8,13 @@
 
 ## 😀 About Me
 
-Hello there! I'm **Anirudh**, a **Machine Learning Engineer** with a broad foundation in **Machine Learning**, **Computer Vision** and **NLP**, applied across domains like finance, pharmaceuticals, and healthcare. Over the years, I've worked across diverse roles as a Machine Learning Engineer and Data Scientist, and I'm hands-on with **Python**, **PyTorch**, **HuggingFace**, **LangChain**, and cloud services like **AWS**. I'm equally comfortable across the stack — from training deep learning models to deploying them as production-ready APIs.
+I am a **Machine Learning Engineer** and **Data Scientist** with a strong foundation in **Machine Learning**, **Computer Vision**, and **NLP**, applied across domains like finance, pharmaceuticals, and healthcare. I hold a Master of Science in Robotics & Autonomous Systems (AI) from __[Arizona State University](https://www.asu.edu/)__ and a Bachelor of Engineering in Computer Science from __[Sri Venkateswara College of Engineering](https://www.svce.ac.in/)__, affiliated to __[Anna University](https://www.annauniv.edu/)__.
 
-I'm a recent **MS graduate from Arizona State University** (Robotics & Autonomous Systems — AI, GPA 4.0).
+Over the years, I have evolved from building predictive models and NLP solutions to designing and deploying large-scale AI systems capable of understanding complex visual and textual data. My professional journey — from my early career as a **Data Scientist** at __[Straive](https://www.straive.com/)__ to growing into a **Machine Learning Engineer** role at __[Rapid Acceleration Partners](https://www.rapinnotech.com/)__ — has taken me across diverse problem spaces in finance, pharmaceuticals, and healthcare, equipping me to tackle challenging problems, deliver impactful solutions, and continuously learn and adapt.
 
-My current interests lie in **Multimodal LLMs**, **Retrieval Augmented Generation (RAG)**, fine-tuning, and inference engineering. If you're curious about specific projects I've worked on, feel free to check out my resume linked on this page and/or send me a message on [LinkedIn](https://www.linkedin.com/in/anirudh-rajhgopalann-s). You can also check out my work on [GitHub](https://github.com/anirudh97asu).
+My current research interests lie in **Multimodal LLMs**, **Retrieval Augmented Generation (RAG)**, fine-tuning, and inference engineering. I am equally comfortable across the stack — from training deep learning models to deploying them as production-ready APIs.
 
-Outside of machine learning, I'm an avid **video gamer** and a **tennis enthusiast**. If you're looking for a game recommendation, look no further than **The Witcher series** — and especially The Witcher 3, which remains one of the greatest RPGs ever made.
-
-Let's connect if you're interested in collaborating, or if you know of exciting opportunities — I'm actively looking for new roles and ready to tackle unique challenges!
+I am passionate about solving complex problems, pushing the boundaries of AI, and transforming emerging ideas into impactful, real-world solutions. Let's connect if you're interested in collaborating or know of exciting opportunities — I'm actively looking for new roles and ready to tackle unique challenges! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anirudh-rajhgopalann-s) or explore my work on [GitHub](https://github.com/anirudh97asu).
 
 </td>
 <td valign="top">
