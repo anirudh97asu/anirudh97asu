@@ -77,8 +77,8 @@ I am passionate about solving complex problems, pushing the boundaries of AI, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anirudh97asu&label=Profile%20views&color=0e75b6&style=flat)
 
-<div align="center">
+<!-- <div align="center">
 
 👉 **Happy Learning** 👈
 
-</div>
+</div> -->
